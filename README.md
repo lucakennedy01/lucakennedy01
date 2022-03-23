@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @lucakennedy01 or just Luca
-- 👀 I’m interested in machine learning, data science & resentation and embedded software
+- 👋 Hi, I’m @lucakennedy01, or just Luca
+- 👀 I’m interested in machine learning, data science & presentation, intelligent image processing and embedded software
 - 🌱 I’m currently learning C++ memory allocation concepts
 - 💞️ I’m looking to collaborate on big data projects
 - 📫 You can reach me through connecting with on linkedin https://www.linkedin.com/in/lucakennedy/
