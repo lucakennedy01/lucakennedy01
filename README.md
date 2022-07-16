@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @lucakennedy01, or just Luca
-- 👀 I’m interested in machine learning, data visualization, intelligent image processing and embedded software
-- 🌱 I’m currently learning C++ memory allocation concepts
-- 💞️ I’m looking to collaborate on big data projects
-- 📫 You can reach me through connecting with on linkedin https://www.linkedin.com/in/lucakennedy/
+Hi, thanks for checking out my profile, I use this account for storing projects you might be interested in that reflect my software interests such as:
+-Machine learning
+-Big data
+-Data analysis and representation
+-Personal tools (Resistor NPV calculator featured by repl.it!)
+-Learning new languages
+
+I'm always looking to collaborate on just about anything python/C/C++/JavaScript!
